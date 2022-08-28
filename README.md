@@ -1,5 +1,7 @@
 # Debian Server Set Up for Django Instruction
 
+https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/
+
 In this guide we will set up clean Debian server for Python and Django projects. We will configure secure SSH connection, install from Debian repositories and from sources all needed packages and ware it together for working Debian Django server.
 
 [Youtube video guide (in Russian)](https://www.youtube.com/watch?v=FLiKTJqyyvs)
